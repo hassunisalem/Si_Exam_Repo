@@ -25,12 +25,12 @@ send an offer to the user and store the offer in af database, for further busine
 
 ## System architecture
 
-![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/SystemArc.PNG "System architecture"
+![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/SystemArc.PNG "System architecture
 ")
 
 ## Business Proces Model Notaion
 
-![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/BPMN_model.png "BPMN"
+![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/BPMN_model.png "BPMN
 ")  
 
 BPMN and Camunda are used for the coworkers to confirm the used game condition and delegate the flow of the system accordingly. 
