@@ -25,5 +25,16 @@ send an offer to the user and store the offer in af database, for further busine
 
 ## System architecture
 
-![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/SystemArc.PNG "System architecture
+![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/SystemArc.PNG "System architecture"
 ")
+
+## Business Proces Model Notaion
+
+![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/BPMN_model.png "BPMN"
+")  
+
+BPMN and Camunda are used for the coworkers to confirm the used game condition and delegate the flow of the system accordingly. 
+Future work could also include adding a time limit on receival of the used game. If a discount deal is requested but the used game 
+never shows up, the system could cancel the deal after a fixed time interval has passed and Camunda is an obvious place to implement that.  
+
+
