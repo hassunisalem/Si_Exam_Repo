@@ -22,3 +22,8 @@ This project is an automated solution to this business model, which solves the c
 but instead having the user being able to pick the game they want on the website and request a game discount based on a trade with their own game. 
 Then they’d mail their game to the nearest store and the coworkers which have a list of all requests and would test the game's condition.If the games is working the system proceeds to calculate a price, 
 send an offer to the user and store the offer in af database, for further business analysis and ad targeting.   
+
+## System architecture
+
+![alt text](https://github.com/hassunisalem/Si_Exam_Repo/blob/main/SystemArc.PNG "System architecture
+")
